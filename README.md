@@ -19,4 +19,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/aveandrian/single-price-grid-component-master/assets/13519212/f238ee33-b961-4e30-b7c5-2ade6d174a67)
